@@ -1,4 +1,4 @@
-# Sql-Sales-Data-Analysis-Project.
+
 # Superstore Sales Data Analysis Using SQL
 
 ## 📌 Project Overview

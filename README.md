@@ -1,5 +1,11 @@
 
 # Superstore Sales Data Analysis Using SQL
+## 📚 Learning & Project Takeaways
+
+Through this project, I strengthened my practical understanding of SQL for business-oriented data analysis, including CTEs, window functions, aggregations, customer segmentation, and trend analysis.
+
+This project also helped me improve my ability to translate business questions into SQL queries and interpret query results as actionable insights.
+
 
 ## 📌 Project Overview
 This project focuses on analyzing 9,994 retail sales transactions from a Superstore dataset using MySQL Workbench. The objective was to extract actionable business insights regarding sales performance, customer behavior, and product profitability.

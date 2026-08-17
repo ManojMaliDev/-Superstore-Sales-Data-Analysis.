@@ -1,5 +1,5 @@
 
-# Superstore Sales Data Analysis Using SQL
+# Superstore Sales Data Analysis 
 ## 📚 Learning & Project Takeaways
 
 Through this project, I strengthened my practical understanding of SQL for business-oriented data analysis, including CTEs, window functions, aggregations, customer segmentation, and trend analysis.
